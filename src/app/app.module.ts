@@ -10,7 +10,6 @@ import { ChartComponent } from './chart/chart.component';
 @NgModule({
   declarations: [
     AppComponent,
-    RestTestComponent,
     ChartComponent
   ],
   imports: [
